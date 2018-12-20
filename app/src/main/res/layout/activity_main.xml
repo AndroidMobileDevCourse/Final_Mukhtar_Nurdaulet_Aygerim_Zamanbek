@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="kz.iitu.cloudy.ui.activity.MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:paddingTop="@dimen/xxxxlarge_margin">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_marginTop="@dimen/xxxxlarge_margin"
+                android:src="@drawable/logo"/>
+
+            <com.arlib.floatingsearchview.FloatingSearchView
+                android:id="@+id/search_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/xxxxlarge_margin"
+                app:floatingSearch_searchBarMarginLeft="@dimen/search_view_inset"
+                app:floatingSearch_searchBarMarginTop="@dimen/search_view_inset"
+                app:floatingSearch_searchBarMarginRight="@dimen/search_view_inset"
+                app:floatingSearch_dimBackground="false"
+                app:floatingSearch_clearBtnColor="@color/button_text_color"
+                app:floatingSearch_searchHint="Введите хэштег"
+                app:floatingSearch_suggestionsListAnimDuration="250"
+                app:floatingSearch_showSearchKey="true"
+                app:floatingSearch_leftActionMode="showSearch"
+                app:floatingSearch_close_search_on_keyboard_dismiss="true"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/photograph_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_rounded"
+            android:layout_margin="@dimen/normal_margin"
+            android:textColor="@color/button_text_color"
+            android:layout_alignParentBottom="true"
+            android:text="Я фотограф"/>
+
+    </RelativeLayout>
+</layout>
+

@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "447332924380",
+    "firebase_url": "https://cloudy-225f1.firebaseio.com",
+    "project_id": "cloudy-225f1",
+    "storage_bucket": "cloudy-225f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447332924380:android:6e6be4b03df130d0",
+        "android_client_info": {
+          "package_name": "kz.iitu.cloudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447332924380-6viiou6t9lob7g552db7tojlt31ltkl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

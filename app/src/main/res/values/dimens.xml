@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_view_inset">5dp</dimen>
+    <dimen name="sliding_search_view_header_height">250dp</dimen>
+
+    <dimen name="normal_margin">8dp</dimen>
+    <dimen name="large_margin">16dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="tiny_margin">2dp</dimen>
+    <dimen name="xlarge_margin">24dp</dimen>
+    <dimen name="xxlarge_margin">28dp</dimen>
+    <dimen name="moderate_margin">14dp</dimen>
+    <dimen name="xxxlarge_margin">30dp</dimen>
+    <dimen name="xxxxlarge_margin">36dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="info_item_margin">12dp</dimen>
+    <dimen name="gender_padding">6dp</dimen>
+    <dimen name="toolbar_title_margin">34dp</dimen>
+    <dimen name="extra_large_margin">48dp</dimen>
+    <dimen name="bottom_view_margin">62dp</dimen>
+
+    <dimen name="title_text_size">18sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="thumbnail_height">108dp</dimen>
+</resources>

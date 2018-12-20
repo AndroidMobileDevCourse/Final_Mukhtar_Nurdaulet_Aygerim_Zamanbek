@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cloudy</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Хештеги</string>
+    <string name="title_dashboard">Добавить</string>
+    <string name="title_notifications">Заявки</string>
+
+    <string name="hashtag_fmt">#%1$s</string>
+    <string name="count_fmt">%1$d фото</string>
+    <string name="loading_fmt">Загрузка фотографии %1$d из %2$d</string>
+    <string name="deleting_fmt">Удаление фотографии %1$d из %2$d</string>
+</resources>

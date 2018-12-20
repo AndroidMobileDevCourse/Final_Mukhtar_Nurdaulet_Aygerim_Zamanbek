@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="18dp"
+        android:height="18dp"
+        android:viewportWidth="32"
+        android:viewportHeight="32">
+
+    <path
+        android:name="Imported-Layers-15"
+        android:fillColor="#666666"
+        android:fillType="evenOdd"
+        android:strokeWidth="1"
+        android:pathData="M7.60815,14 L18.7801,2.828 L15.9521,0 L-0.0478516,16 L15.9521,32 L18.7801,29.172 L7.60815,18 L31.9521,18 L31.9521,14 Z" />
+</vector>
